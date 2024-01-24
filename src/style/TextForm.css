@@ -70,10 +70,11 @@
 		float: none;
 		padding-left:10px;
 		padding-right:10px;
-		font-size:25px;
+		font-size: 15px;
 		
 	}
 	#text {
 		width:550px;
+		
 	}
 } 
