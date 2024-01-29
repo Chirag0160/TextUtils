@@ -1,0 +1,28 @@
+.footer-bg {
+    background: black;
+    height: 120px;
+}
+.Footer-button-container {
+    margin-top: 549px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+@media(max-width: 720px) {
+    .footer-bg {
+        width: 100%;
+    }
+    .Footer-button-container {
+        margin-top: 2rem;
+
+    }
+}
+@media(max-width: 1024px) {
+    .Footer-button-container {
+        margin-top: 53.188rem;
+
+    }
+    .footer-bg {
+        width: 100%;
+    }
+}
